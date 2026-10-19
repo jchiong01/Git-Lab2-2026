@@ -25,3 +25,11 @@ No issues currently documented.
 ## Escalation
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
+
+## Slow Wireless Connection
+
+1. Check modem proximity to device, try moving closer.
+2. Restart always helps.
+3. Stop massive downloads.
+4. Forget wifi password and reconnect.
+5. Otherwise call customer service.
