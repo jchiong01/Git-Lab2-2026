@@ -1,4 +1,5 @@
-# Wi‑Fi Troubleshooting Step by Step
+# Wi‑Fi Troubleshooting Guide and Slow Wireless Connection Guide
+
 
 ## Current Revision
 
