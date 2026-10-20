@@ -16,3 +16,10 @@ Priority: Standard
 ## Escalation
 
 Users should contact IT support if they experience account issues.
+
+## new steps
+1. verify user identity or username
+2. check their email address
+3. ask to check spam folder
+4. send a new reset link
+5. contact support if still unable to reset
